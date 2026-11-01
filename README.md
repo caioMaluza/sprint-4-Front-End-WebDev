@@ -96,7 +96,7 @@ A seleção e pré-visualização de imagens e vídeos **funciona localmente**. 
 
 ## Como foi utilizada a IA
 
-A Inteligência Artificial foi utilizada **no processo de desenvolvimento** como apoio à revisão do código de origem, identificação de requisitos ausentes, proposta e refatoração de componentes React, implementação dos hooks, organização da API mockada, adaptação da identidade visual e redação da documentação. O grupo deve revisar e compreender o código antes de entregar. A IA faz parte também da **proposta de produto JOVI** (tradução contextual e dublagem), mas as integrações com modelos e APIs reais **não estão habilitadas** nesta entrega demonstrativa.
+A Inteligência Artificial foi utilizada **no processo de desenvolvimento** como apoio à revisão do código de origem, identificação de requisitos ausentes, proposta e refatoração de componentes React, implementação dos hooks, organização da API mockada, adaptação da identidade visual e redação da documentação.
 
 ## Repositório Git e deploy Vercel
 
