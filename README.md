@@ -100,22 +100,11 @@ A Inteligência Artificial foi utilizada **no processo de desenvolvimento** como
 
 ## Repositório Git e deploy Vercel
 
-**Repositório Git:** `[PREENCHER COM A URL REAL DO REPOSITÓRIO]`
+**Repositório Git:** `https://github.com/caioMaluza/sprint-4-Front-End-WebDev`
 
-**Deploy Vercel:** `[PREENCHER COM A URL REAL DO SITE PUBLICADO]`
+**Deploy Vercel:** `https://jovi-academy-mode.vercel.app/`
 
-Para publicar:
-1. Crie um repositório GitHub e envie **somente o código-fonte** (não suba `node_modules` ou `.next`).
-2. Entre em https://vercel.com/new, importe o repositório e escolha Next.js.
-3. Se o repositório tiver a pasta `jovi-sprint4` na raiz, configure essa pasta em **Root Directory**. Se os arquivos do projeto estiverem na raiz do repositório, deixe como padrão.
-4. Publique, teste `/`, `/academy`, `/login` e `/cofre` e cole a URL acima.
-5. Inclua no portal da FIAP **os links do Git e da Vercel** junto com o único ZIP de entrega.
 
-## Entrega
-
-O ZIP deve conter a pasta `jovi-sprint4` com **todo o código-fonte**, `README.md`, `INTEGRANTES.TXT`, arquivos de configuração e recursos de `public/`. A pasta `node_modules` **não deve** estar incluída. O professor poderá reproduzir via `npm install` e `npm run dev`.
-
-⚠️ **Antes de enviar:** confira os nomes completos e RMs recuperados do arquivo de integrantes da Sprint 3. Preencha os links reais do GitHub e da Vercel acima. Somente um aluno deverá fazer o envio. O preenchimento é necessário para cumprir o enunciado da Sprint 4.
 
 ## Continuidade com a Sprint 3
 
